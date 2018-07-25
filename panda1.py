@@ -28,3 +28,4 @@ av_sound = sum(sound) / len(sound)
 
 print("Average lighting is %.1f Lux" % av_light)
 print("Average sound level is %.1f dB" % av_sound)
+input("Press enter for exit.")
